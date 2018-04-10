@@ -2,7 +2,7 @@
     This is the first c-language function by @Jiang
     setup—time ： Apr. 10th 2018 
     -----------------------------------------------
-    add_one  Enter a number(int) and output the value it add one.
+    add_one(int)  Enter a number(int) and output the value it add one.
     eg：     select add_one(1);
     result:  2    
 */
