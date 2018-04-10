@@ -9,4 +9,6 @@ eg:
      cp  add_one.so  /opt/BeyonDB/5.0/lib/postgresql             
      
 -----------------------------------------------------     
-1. add_one()
+1. add_one(integer)             
+2. version()        
+3. wrong()          
